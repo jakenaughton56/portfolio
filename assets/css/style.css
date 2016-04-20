@@ -727,7 +727,6 @@ Resume Timeline
          -o-transform: rotate(45deg);
             transform: rotate(45deg);
 }
-
 .timeline:before {
     content: "";
     position: absolute;
