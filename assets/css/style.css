@@ -743,6 +743,7 @@ Resume Timeline
     min-height: 50px;
 }
 
+
 .timeline>li:before,
 .timeline>li:after {
     content: " ";
