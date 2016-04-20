@@ -674,6 +674,16 @@ SOCIAL ICON
 /*---------------------------------------------------------
 Resume Timeline
 -----------------------------------------------------------*/
+
+/* Added by Jake Naughton */
+.resume-section{
+  background-color: #f2f2f2;
+}
+
+
+
+/* finsihed css by Jake Naughton */
+
 .resume-title h3{
     text-align: center;
 }
@@ -846,7 +856,7 @@ Resume Timeline
 .timeline>li .posted-date {
     position: absolute;
     text-align: center;
-    background-color: #fff;
+    background-color: #f2f2f2;
 }
 
 .timeline>li .timeline-panel {
@@ -860,7 +870,7 @@ Resume Timeline
 .timeline-content{
     position: relative;
     padding: 24px;
-    background-color: #fff;
+    background-color: white;
     -webkit-transition:all 400ms;
     -moz-transition:all 400ms;
     -o-transition:all 400ms;
