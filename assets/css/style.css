@@ -1483,6 +1483,10 @@ Icon for all respective meta
     margin-bottom: 40px;
 }
 
+.contact-form {
+  margin-bottom: 40px;
+}
+
 .contact-form textarea.form-control {
     height: 115px;
 }
